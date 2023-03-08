@@ -1,0 +1,26 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  background: pink;
+  height: 50vh;
+  width: 50vh;
+  padding: 0.5em;
+  margin: 25vh auto 0;
+}
+
+.item {
+  background: lightblue;
+  margin: 0.5em;
+}
