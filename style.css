@@ -30,10 +30,14 @@ body {
   justify-content: space-around;
 
   /* align-items: stretch; */
-  align-items: flex-start;
+  /* align-items: flex-start; */
   /* align-items: flex-end; */
   /* align-items: center; */
   /* align-items: baseline; */
+
+  align-content: center;
+  /* align-content: space-between; */
+  /* align-content: space-around; */
 }
 
 .item {
