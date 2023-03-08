@@ -18,6 +18,9 @@ body {
   width: 50vw;
   padding: 0.5em;
   margin: 25vh auto 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .item {
