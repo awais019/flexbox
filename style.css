@@ -15,7 +15,7 @@ body {
 .container {
   background: pink;
   height: 50vh;
-  width: 50vh;
+  width: 50vw;
   padding: 0.5em;
   margin: 25vh auto 0;
 }
